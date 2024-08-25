@@ -1,0 +1,19 @@
+body{
+    background-color: #F5F6F9;
+}
+
+.brand-images {
+    height: 100px;
+    width: 100px;
+}
+
+.warranty-tag{
+    position: relative;
+    top: -72px;
+    left: 185px;
+    background-color: #E9F1C5;
+    width: fit-content;
+    padding: 2px;
+    font-weight: 600;
+    font-size: 14px;
+}
